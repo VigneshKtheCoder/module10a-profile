@@ -14,7 +14,6 @@ function Profile({ name, occupation, funFact, quote }) {
     maxWidth: "350px",
     margin: "auto",
     backgroundColor: "#fefefe",
-    boxShadow: "2px 2px 12px rgba(0,0,0,0.1)",
     textAlign: "center"
   };
 

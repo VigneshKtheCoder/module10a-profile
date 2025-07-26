@@ -2,7 +2,7 @@ import Profile from "./Profile";
 
 function App() {
   return (
-    <div style={{ padding: "40px", fontFamily: "Arial, sans-serif" }}>
+    <div style={{ padding: "40px", fontFamily: "Arial, sans-serif", color: "black"}}>
       <h1 style={{ textAlign: "center" }}>Our Team</h1>
       <Profile
         name="Vignesh K"
