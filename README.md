@@ -10,3 +10,4 @@ This project demonstrates how to use React props and state to build an interacti
 
 ## Screenshot
 (Add screenshot of your live app running with a toggled state)
+<img width="496" height="450" alt="Screenshot 2025-07-26 033118" src="https://github.com/user-attachments/assets/55c587fa-7637-489d-b8d6-77b27b99d622" />
